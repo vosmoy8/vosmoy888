@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "action": "preview",
+  "params": {
+    "series": "5",
+    "parallel": "1",
+    "net_start_index": "0",
+    "pack_series": "",
+    "columns": 2,
+    "layout_mode": "vertical",
+    "ladder_outline_mode": "stepped",
+    "pcb_paper": "auto",
+    "pcb_orientation": "auto",
+    "tab_layout_mode": "manual",
+    "symmetric_tabs": false,
+    "board_width_extra": "0",
+    "cell_expansion_a": "2",
+    "cell_expansion_b": "2",
+    "slot_end_clearance": "0",
+    "board_height": "",
+    "copper_clearance": "2.0",
+    "slot_thickness": "1",
+    "copper_oz": "2",
+    "project_name": "busboard_5s1p_vertical",
+    "output_dir": "C:\\Users\\Precision\\Desktop\\busboard_generated",
+    "append_to_pcb": "",
+    "export_outputs": false,
+    "pack": {
+      "B": "37.6",
+      "A": "9.0",
+      "S": "9.0",
+      "H": "20.0",
+      "E": "9.0",
+      "F": "10.0",
+      "TE": "3.7",
+      "TF": ""
+    }
+  },
+  "request_hash": "bf3e5985b628301c3efc594b7da7347c75c2a20652a15e5976f96904af0dac46"
+}
